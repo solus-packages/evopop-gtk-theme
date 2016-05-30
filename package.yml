@@ -1,6 +1,6 @@
 name       : evopop-gtk-theme
 version    : 1.0.2
-release    : 11
+release    : 12
 source     :
     - https://github.com/solus-cold-storage/evopop-gtk-theme/archive/1.0.2.tar.gz : 66aeaf997d8be14f8d0b6e2999b1fcc6a3e1dcbc743dfad89960d00b1d6c6ad9
 license    : GPL-3.0
@@ -13,3 +13,5 @@ build      : |
     %make
 install    : |
     %make_install
+    # Allow symlink update here..
+    ln -sv EvoPop $installdir/usr/share/themes/evopop-gtk-theme

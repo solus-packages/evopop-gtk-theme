@@ -566,10 +566,11 @@
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/widgets/_treeviews.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/widgets/_windows.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/index.theme</Path>
+            <Path fileType="data">/usr/share/themes/evopop-gtk-theme</Path>
         </Files>
     </Package>
     <History>
-        <Update release="11">
+        <Update release="12">
             <Date>2016-05-30</Date>
             <Version>1.0.2</Version>
             <Comment>Packaging update</Comment>

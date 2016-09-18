@@ -650,6 +650,7 @@
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.20/widgets/_treeviews.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.20/widgets/_windows.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/index.theme</Path>
+            <Path fileType="data">/usr/share/themes/EvoPop/plank/dock.theme</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/unity/close.png</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/unity/close_focused.png</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/unity/close_focused_normal.png</Path>
@@ -852,9 +853,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="16">
-            <Date>2016-09-02</Date>
-            <Version>1.7.3</Version>
+        <Update release="17">
+            <Date>2016-09-18</Date>
+            <Version>1.8.0</Version>
             <Comment>Packaging update</Comment>
             <Name>Ikey Doherty</Name>
             <Email>ikey@solus-project.com</Email>

@@ -861,9 +861,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="19">
-            <Date>2016-10-23</Date>
-            <Version>2.0.3</Version>
+        <Update release="20">
+            <Date>2016-10-24</Date>
+            <Version>2.0.4</Version>
             <Comment>Packaging update</Comment>
             <Name>Ikey Doherty</Name>
             <Email>ikey@solus-project.com</Email>

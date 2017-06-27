@@ -556,6 +556,7 @@
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/apps/_geary.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/apps/_gnome.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/apps/_lightdm.scss</Path>
+            <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/apps/_mate.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/apps/_pantheon.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/apps/_unity.scss</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/gtk-3.0/gtk-dark.css</Path>
@@ -626,6 +627,10 @@
             <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/menu_unfocused.png</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/menu_unfocused_prelight.png</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/menu_unfocused_pressed.png</Path>
+            <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/metacity-theme-1.xml</Path>
+            <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/metacity-theme-2.xml</Path>
+            <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/metacity-theme-3.xml</Path>
+            <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/metacity-theme.xml</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/minimize.png</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/minimize_focused.png</Path>
             <Path fileType="data">/usr/share/themes/EvoPop/metacity-1/minimize_focused_normal.png</Path>
@@ -861,9 +866,9 @@
         </Files>
     </Package>
     <History>
-        <Update release="24">
-            <Date>2017-06-20</Date>
-            <Version>2.0.7</Version>
+        <Update release="25">
+            <Date>2017-06-26</Date>
+            <Version>2.1.2</Version>
             <Comment>Packaging update</Comment>
             <Name>Peter Cornelis</Name>
             <Email>poltertec@gmail.com</Email>

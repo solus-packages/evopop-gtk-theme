@@ -1,8 +1,8 @@
 name       : evopop-gtk-theme
-version    : 2.9.92
-release    : 28
+version    : 2.9.96
+release    : 29
 source     :
-    - https://github.com/solus-project/evopop-gtk-theme/archive/2.9.92.tar.gz : 79b51e0cb13fbdf8d7e90cec59d7ae0bb9d2e35344d352c6039f56d6b8cc4ede
+    - https://github.com/solus-project/evopop-gtk-theme/archive/2.9.96.tar.gz : 8d4cfbc6859b1b8e63840f108df1ba16f674dd787bd63001084edee99dff45b1
 license    : GPL-3.0
 summary    : A simple, flat and bold Gtk theme for Solus & Budgie Desktop
 component  : desktop.theme
